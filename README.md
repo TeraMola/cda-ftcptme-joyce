@@ -11,14 +11,11 @@
 * 点击「添加规则列表」，在规则列表网址，输入
 
 ``
-https://github.com/pluwen/china-domain-allowlist/raw/main/allow-list.sorl
+https://github.com/TeraMola/cda-ftcnme-joyce/raw/main/allow-list.sorl
 ``
 * 点击「立即更新情景模式」
 * 点击左上角「界面」，将初始情景模式改为「自动切换」
 
 ## 作者
-* [Pluwen](https://twitter.com/pluwen)
+* Joyce
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/china-domain-allowlist&type=Date)](https://star-history.com/#pluwen/china-domain-allowlist&Date)
