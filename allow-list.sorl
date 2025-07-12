@@ -1220,9 +1220,10 @@
 *.eurofinscn.*
 *.wss.zone
 *.xljsci.*
-iui.*
+*.iui.*
 *.fffxx.com
 *.huilianyi.*
 *.folderport.*
 *.ft-cn.*
 *.home
+*.hdslb.com
