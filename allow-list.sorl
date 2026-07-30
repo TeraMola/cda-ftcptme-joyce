@@ -1217,6 +1217,8 @@
 *.zku.net
 *.znyj365.com
 *.zto.com
+
+; Eurofins
 *.eurofinscn.*
 *.wss.zone
 *.xljsci.*
@@ -1230,3 +1232,4 @@
 xiumi.*
 ftcn001wevp009
 ptcn001wevp009
+*.itiz-ft-cn.local
