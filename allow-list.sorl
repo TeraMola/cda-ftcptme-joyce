@@ -1220,6 +1220,7 @@
 
 ; Eurofins
 *.eurofinscn.*
+*.erfg090.eurofins.com
 *.wss.zone
 *.xljsci.*
 *.iui.*
